@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:415,Anime Zone TV (480p) [Not 24/7]
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:29,Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:30,ATV (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:30,ATV+ Noticias (480p) [Not 24/7]
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:29,BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:31,Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:83,CANAL IPE (460p) [Not 24/7]
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:29,Central TV (Chosica) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:89,Chicos IPe (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,Claro Sports
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:0,CubaVision Internacional (480p) [Not 24/7]
+http://190.122.96.187:8888/http/010
+#EXTINF:1800,DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:30,El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:60,Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:60,France 24 Español (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:30,Identidad TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:28,Imagen Televisión (Rioja) (720p) [Not 24/7]
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:3662,JNE TV [Not 24/7]
+https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
+#EXTINF:60,Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:36,KBO Quillabamba (1080p) [Not 24/7]
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+#EXTINF:580,La Luz TV (720p)
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
+#EXTINF:18,Live Perú TV Streaming (720p) [Not 24/7]
+http://209.126.108.55/app/stream/playlist.m3u8
+#EXTINF:30,Locomotion TV (480p) [Not 24/7]
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:33,Magic Kids (240p) [Not 24/7]
+https://live.admefy.com/live/240/clean_peach_ef224.m3u8
+#EXTINF:24,MaticesTV (Cañete) (720p) [Not 24/7]
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:30,Millenium 109 FM (Lamas) (720p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
+#EXTINF:14,MINEDU IPTV 1 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF:28,MINEDU IPTV 2 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF:30,Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:28,Nuestra TV (Lima) (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+#EXTINF:25,Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:29,Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:29,Ovación TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:30,Panamericana TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+#EXTINF:29,Pax TV (480p) [Not 24/7]
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:30,PBO Digital (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
+#EXTINF:28,Quattro TV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvgo
+#EXTINF:24,Quillavision (Cuzco) (720p) [Not 24/7]
+http://v4.tustreaming.cl/quillavision/index.m3u8
+#EXTINF:31,Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:30,Radio Tropical Tarapoto (480p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
+#EXTINF:31,Red de Comunicación Regional (RCR) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:30,Retro Plus (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:30,Retro Plus 2 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:30,Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:30,RN Televisión (Yurimaguas) (720p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8
+#EXTINF:180,Solar Televisión (Abancay) (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/televisionsolar/index.m3u8
+#EXTINF:25,Telesur (Ilo) (720p) [Not 24/7]
+https://qlobbidev.s.llnwi.net/telesur3/hls/ilo.m3u8
+#EXTINF:24,Telesur (Mollendo) (240p) [Not 24/7]
+https://qlobbidev.s.llnwi.net/telesur3/hls/mollendo.m3u8
+#EXTINF:24,Telesur (Moquegua) (360p) [Not 24/7]
+https://qlobbidev.s.llnwi.net/telesur3/hls/moquegua.m3u8
+#EXTINF:25,Telesur (Tacna) (720p) [Not 24/7]
+https://qlobbidev.s.llnwi.net/telesur3/hls/tacna.m3u8
+#EXTINF:29,Televisión Tarapoto (720p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
+#EXTINF:33,Toonizaki (720p) [Not 24/7]
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+#EXTINF:30,Top Latino TV (404p) [Not 24/7]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:30,TV Cosmos (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
+#EXTINF:36,TV Noticias 7.3 (614p)
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:36,TV Perú (450p) [Not 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:36,TV Perú Noticias (614p) [Not 24/7]
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:27,TV Peruanísima (720p) [Not 24/7]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:40,TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:245,Uchu TV (Cusco) (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/Cusco/index.m3u8
+#EXTINF:20,Live
+http://170.79.102.223/UCI/index.m3u8
+#EXTINF:60,UCL TV (720p) [Not 24/7]
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:48,USMPTV (720p) [Not 24/7]
+http://200.48.236.2:8080/live/stream.m3u8
+#EXTINF:29,Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:33,Vía Televisión (Tarapoto) (720p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8
+#EXTINF:30,Visión Noticias Perú (VNP) (720p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:30,Visión TV Musica (720p) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:30,VPItv (720p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:32,Willax (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
