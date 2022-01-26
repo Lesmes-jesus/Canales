@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:415,Anime Zone TV (480p) [Not 24/7]
-http://azxtv.com/hls/stream.m3u8
-#EXTINF:29,Antares Televisión (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:30,ATV (480p) [Not 24/7]
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:30,ATV+ Noticias (480p) [Not 24/7]
@@ -43,10 +39,6 @@ https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
 #EXTINF:18,Live Perú TV Streaming (720p) [Not 24/7]
 http://209.126.108.55/app/stream/playlist.m3u8
-#EXTINF:30,Locomotion TV (480p) [Not 24/7]
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:33,Magic Kids (240p) [Not 24/7]
-https://live.admefy.com/live/240/clean_peach_ef224.m3u8
 #EXTINF:24,MaticesTV (Cañete) (720p) [Not 24/7]
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:30,Millenium 109 FM (Lamas) (720p) [Not 24/7]
@@ -61,8 +53,6 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 #EXTINF:25,Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:29,Ovacion TV (720p) [Not 24/7]
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:29,Ovación TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:30,Panamericana TV (720p) [Not 24/7]
@@ -121,12 +111,6 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:245,Uchu TV (Cusco) (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/Cusco/index.m3u8
-#EXTINF:20,Live
-http://170.79.102.223/UCI/index.m3u8
-#EXTINF:60,UCL TV (720p) [Not 24/7]
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
-#EXTINF:48,USMPTV (720p) [Not 24/7]
-http://200.48.236.2:8080/live/stream.m3u8
 #EXTINF:29,Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:33,Vía Televisión (Tarapoto) (720p) [Not 24/7]
