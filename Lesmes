@@ -5,18 +5,12 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:29,BHTV (720p) [Not 24/7]
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:31,Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
 #EXTINF:83,CANAL IPE (460p) [Not 24/7]
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:29,Central TV (Chosica) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:89,Chicos IPe (460p) [Not 24/7]
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:0,Claro Sports
-http://45.179.140.242:8000/play/a0ht
-#EXTINF:0,CubaVision Internacional (480p) [Not 24/7]
-http://190.122.96.187:8888/http/010
 #EXTINF:1800,DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:30,El Garage TV (480p) [Not 24/7]
@@ -131,7 +125,5 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:40,6
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:32,FashionTV
-https://publica.cloudycdn.services/playlist.m3u8?network_id=569
 #EXTINF:30,CorTV
 https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
