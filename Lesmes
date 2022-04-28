@@ -76,22 +76,12 @@ https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8
 #EXTINF:180,Solar Televisión (Abancay) (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/televisionsolar/index.m3u8
-#EXTINF:25,Telesur (Ilo) (720p) [Not 24/7]
-https://qlobbidev.s.llnwi.net/telesur3/hls/ilo.m3u8
-#EXTINF:24,Telesur (Mollendo) (240p) [Not 24/7]
-https://qlobbidev.s.llnwi.net/telesur3/hls/mollendo.m3u8
-#EXTINF:24,Telesur (Moquegua) (360p) [Not 24/7]
-https://qlobbidev.s.llnwi.net/telesur3/hls/moquegua.m3u8
-#EXTINF:25,Telesur (Tacna) (720p) [Not 24/7]
-https://qlobbidev.s.llnwi.net/telesur3/hls/tacna.m3u8
 #EXTINF:29,Televisión Tarapoto (720p) [Not 24/7]
 https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
 #EXTINF:33,Toonizaki (720p) [Not 24/7]
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:30,Top Latino TV (404p) [Not 24/7]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-#EXTINF:30,TV Cosmos (720p) [Not 24/7]
-https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
 #EXTINF:36,TV Noticias 7.3 (614p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:36,TV Perú (450p) [Not 24/7]
@@ -117,13 +107,3 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 #EXTINF:32,Willax (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-#EXTINF:50,Norte TV
-http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:10641,Master
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:24,El Toro TV
-https://live1-eltorotv.flumotion.com/playlist.m3u8
-#EXTINF:40,6
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:30,CorTV
-https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
