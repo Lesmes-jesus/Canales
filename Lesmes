@@ -61,8 +61,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/quatrotvg
 http://v4.tustreaming.cl/quillavision/index.m3u8
 #EXTINF:31,Radio San Borja TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:30,Radio Tropical Tarapoto (480p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/raditropical/raditropical/playlist.m3u8
 #EXTINF:31,Red de Comunicación Regional (RCR) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 #EXTINF:30,Retro Plus (720p)
@@ -71,15 +69,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:30,Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:30,RN Televisión (Yurimaguas) (720p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/playlist.m3u8
 #EXTINF:180,Solar Televisión (Abancay) (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
 https://tna5.bozztv.com/televisionsolar/index.m3u8
-#EXTINF:29,Televisión Tarapoto (720p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/televisiontpp/televisiontpp/playlist.m3u8
-#EXTINF:33,Toonizaki (720p) [Not 24/7]
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:30,Top Latino TV (404p) [Not 24/7]
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:36,TV Noticias 7.3 (614p)
@@ -97,12 +89,6 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 https://tna5.bozztv.com/Cusco/index.m3u8
 #EXTINF:29,Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-#EXTINF:33,Vía Televisión (Tarapoto) (720p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/viatv2021/viatv2021/playlist.m3u8
-#EXTINF:30,Visión Noticias Perú (VNP) (720p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:30,Visión TV Musica (720p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:30,VPItv (720p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 #EXTINF:32,Willax (480p) [Not 24/7]
