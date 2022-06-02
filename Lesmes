@@ -7,8 +7,6 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:83,CANAL IPE (460p) [Not 24/7]
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:29,Central TV (Chosica) (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:89,Chicos IPe (460p) [Not 24/7]
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:1800,DW Español (1080p)
@@ -21,22 +19,14 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 #EXTINF:30,Identidad TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
-#EXTINF:28,Imagen Televisión (Rioja) (720p) [Not 24/7]
-http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
-#EXTINF:3662,JNE TV [Not 24/7]
-https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8
 #EXTINF:60,Karibeña (720p) [Not 24/7]
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:36,KBO Quillabamba (1080p) [Not 24/7]
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:580,La Luz TV (720p)
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8
-#EXTINF:18,Live Perú TV Streaming (720p) [Not 24/7]
-http://209.126.108.55/app/stream/playlist.m3u8
 #EXTINF:24,MaticesTV (Cañete) (720p) [Not 24/7]
 http://v4.tustreaming.cl/matices/index.m3u8
-#EXTINF:30,Millenium 109 FM (Lamas) (720p) [Not 24/7]
-https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
 #EXTINF:14,MINEDU IPTV 1 (320p) [Not 24/7]
 http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 #EXTINF:28,MINEDU IPTV 2 (320p) [Not 24/7]
@@ -82,7 +72,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:27,TV Peruanísima (720p) [Not 24/7]
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-#EXTINF:40,TVG América (720p)
+#EXTINF:40,TVG Galicia (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:245,Uchu TV (Cusco) (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://ssh101.com/
