@@ -83,3 +83,70 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 #EXTINF:32,Willax (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+#Musica
+#EXTINF:30, Retro Music Television | CZ
+#EXTVLCOPT:network-caching=1000
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Portal FoxMix | CL
+#EXTVLCOPT:network-caching=1000
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Conecta TV | MX
+#EXTVLCOPT:network-caching=1000
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Zapping Music | CL
+#EXTVLCOPT:network-caching=1000
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV Señal 2 * | CL
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:28, Hits 360 | DO
+#EXTVLCOPT:network-caching=1000
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:12, Urban TV * | ES
+#EXTVLCOPT:network-caching=1000
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, TV vconline.cl | CL
+#EXTVLCOPT:network-caching=1000
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:29, Maxima FM | CL
+#EXTVLCOPT:network-caching=1000
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Alegria TV | CL
+#EXTVLCOPT:network-caching=1000
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, Euro Indie Music | GB
+#EXTVLCOPT:network-caching=1000
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV * | CL
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, The Retro Channel | PR
+#EXTVLCOPT:network-caching=1000
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:35, Video Tour Channel | CR
+#EXTVLCOPT:network-caching=1000
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Radiomania | CL
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:527290, Ibiza Global TV | ES
+#EXTVLCOPT:network-caching=1000
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:29, Ruidos TV * | CL
+#EXTVLCOPT:network-caching=1000
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, TOP Latino TV | PE
+#EXTVLCOPT:network-caching=1000
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Cloud FM | CL
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Music Top | AR
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Recuerdos Retro Radio TV * | CL
+#EXTVLCOPT:network-caching=1000
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:18, Carolina TV | CL
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
