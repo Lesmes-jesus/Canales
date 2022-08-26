@@ -41,4 +41,93 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpi
 #EXTINF:29,Willax (480p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-
+#EXTINF:60,ATV (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:120,ATV+ Noticias (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:95,Bella Asuncion TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:23,Cajamarca TV (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tv.inka.net.pe/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:81,Canal 8 (Catacaos) (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:6,Canal Iberoamericano
+#EXTVLCOPT:network-caching=1000
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/_definst_/mp4:7NBH6B8L/playlist.m3u8
+#EXTINF:40,CNA International (1080p)
+#EXTVLCOPT:network-caching=1000
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:80,Conecta2TV (Lima) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:30,Congreso TV [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRep%C3%BAblicadelPer%C3%BATVenvivo/live
+#EXTINF:23,Controversia TV (Moyobamba) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:11,CTC (720p)
+#EXTVLCOPT:network-caching=1000
+http://190.108.83.142:8000/play/a007/index.m3u8
+#EXTINF:30,Cultura 24 (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:28,GORESAM TV [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream.plixitv.live/goresamtv/goresamtv/playlist.m3u8
+#EXTINF:24,Hatun TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:26,Hiperconectados Televisión (720p)
+#EXTVLCOPT:network-caching=1000
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:80,HispanTV (480p)
+#EXTVLCOPT:network-caching=1000
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:77,Huacho Perú TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:30,Huánuco en Vivo (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
+#EXTINF:30,Identidad TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
+#EXTINF:100,KBS World (720p)
+#EXTVLCOPT:network-caching=1000
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:30,LatinoKids (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:26,LimaLive (536p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:27,LotPlus TV (Chiclayo) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:60,Novelísima [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:28,Nuestra TV (Lima) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+#EXTINF:29,OK TeVe (Yurimaguas) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:37,Panamericana TV (298p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:30,Perú Channel (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+#EXTINF:11,PiuraTV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://190.108.83.142:8000/play/a00d/index.m3u8
+#EXTINF:30,Planeta TV (Bagua) (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
